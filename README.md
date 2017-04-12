@@ -1,5 +1,3 @@
-# Basic SASS Template
+# Blog SVG Animation
 
-1. run npm install 
-2. run gulp
-3. get to work
+This is an animated svg I created for the blog page of my personal website.
